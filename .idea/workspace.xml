@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="triple_store" targetName="triple_store" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="454ae883-a550-4461-86b2-c2c6d1847020" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1PpI7MD8KkhLBgT89cVNdDgNvmx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="triple_store" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="triple_store" TARGET_NAME="triple_store" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="triple_store" RUN_TARGET_NAME="triple_store">
+      <envs>
+        <env name="PATH" value="~/lib" />
+      </envs>
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="454ae883-a550-4461-86b2-c2c6d1847020" name="Default Changelist" comment="" />
+      <created>1566564442688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566564442688</updated>
+      <workItem from="1566564447058" duration="3707000" />
+      <workItem from="1566591086038" duration="23873000" />
+      <workItem from="1566665779116" duration="61000" />
+      <workItem from="1566665876626" duration="9397000" />
+      <workItem from="1566738647187" duration="7388000" />
+      <workItem from="1566825154180" duration="4838000" />
+      <workItem from="1566839452080" duration="1266000" />
+      <workItem from="1566896199846" duration="20928000" />
+      <workItem from="1566981692946" duration="20472000" />
+      <workItem from="1567073567402" duration="724000" />
+      <workItem from="1567156153702" duration="360000" />
+      <workItem from="1567281092574" duration="1981000" />
+      <workItem from="1567353197937" duration="3556000" />
+      <workItem from="1567512468748" duration="12559000" />
+      <workItem from="1567535616844" duration="4955000" />
+      <workItem from="1567587808768" duration="13083000" />
+      <workItem from="1567669426789" duration="18344000" />
+      <workItem from="1567712872088" duration="4157000" />
+      <workItem from="1568114648248" duration="414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
